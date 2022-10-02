@@ -10,8 +10,8 @@ package models;
  * @author amida
  */
 public class Note {
-    private String title;
-    private String contents;
+    String title;
+    String contents;
     
     public Note() {
         
